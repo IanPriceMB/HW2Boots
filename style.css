@@ -1,0 +1,12 @@
+.imageSize{
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+.navStick{
+    position: fixed;
+    z-index: 99;
+}
+.container{
+    margin-top: 50px;
+}
